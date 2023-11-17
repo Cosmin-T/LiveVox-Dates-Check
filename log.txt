@@ -1,0 +1,119 @@
+2023-11-14 18:18:34,644 - INFO - NumExpr defaulting to 8 threads.
+2023-11-14 18:18:37,716 - INFO - User Added
+2023-11-14 18:18:37,758 - INFO - Password Added
+2023-11-14 18:18:39,410 - INFO - Next Clicked
+2023-11-14 18:18:50,551 - INFO - NumExpr defaulting to 8 threads.
+2023-11-14 18:18:53,192 - INFO - User Added
+2023-11-14 18:18:53,228 - INFO - Password Added
+2023-11-14 18:18:54,791 - INFO - Next Clicked
+2023-11-14 18:18:57,225 - INFO - Clicked Configure
+2023-11-14 18:18:57,225 - INFO - Clicked Input/Output
+2023-11-14 18:18:57,225 - INFO - Clicked SFTP
+2023-11-14 18:18:57,225 - INFO - Clicked Expand
+2023-11-14 18:18:57,225 - INFO - Clicked Contact Done
+2023-11-14 18:19:02,337 - INFO - Dataframe created
+2023-11-14 18:19:02,342 - INFO - Dataframe written to CSV
+2023-11-14 18:19:02,343 - INFO - ABC_IMPORT.CSV: 11/09/2023 != 11/14/2023 - FAIL
+2023-11-14 18:19:02,343 - INFO - DRAGON.CSV: 11/14/2023 == 11/14/2023 - OK
+2023-11-14 18:19:02,343 - INFO - AGA_DAILY_IMPORT.csv: 11/14/2023 == 11/14/2023 - OK
+2023-11-14 18:19:02,343 - INFO - Flag removed
+2023-11-14 18:19:04,084 - INFO - Email sent successfully!
+2023-11-14 18:19:55,399 - INFO - NumExpr defaulting to 8 threads.
+2023-11-14 18:19:58,456 - INFO - User Added
+2023-11-14 18:19:58,489 - INFO - Password Added
+2023-11-14 18:20:00,250 - INFO - Next Clicked
+2023-11-15 12:35:02,488 - INFO - NumExpr defaulting to 8 threads.
+2023-11-15 12:35:05,319 - INFO - User Added
+2023-11-15 12:35:05,353 - INFO - Password Added
+2023-11-15 12:35:06,797 - INFO - Next Clicked
+2023-11-15 12:35:09,729 - INFO - Clicked Configure
+2023-11-15 12:35:09,729 - INFO - Clicked Input/Output
+2023-11-15 12:35:09,729 - INFO - Clicked SFTP
+2023-11-15 12:35:09,729 - INFO - Clicked Expand
+2023-11-15 12:35:09,729 - INFO - Clicked Contact Done
+2023-11-15 12:35:14,836 - INFO - Dataframe created
+2023-11-15 12:35:14,897 - INFO - Dataframe written to CSV
+2023-11-15 12:35:14,898 - INFO - ABC_IMPORT.CSV: 11/09/2023 != 11/15/2023 - FAIL
+2023-11-15 12:35:14,898 - INFO - DRAGON.CSV: 11/14/2023 != 11/15/2023 - FAIL
+2023-11-15 12:35:14,898 - INFO - AGA_DAILY_IMPORT.csv: 11/14/2023 != 11/15/2023 - FAIL
+2023-11-15 12:35:14,898 - INFO - Flag set for second run
+2023-11-15 13:35:02,645 - INFO - NumExpr defaulting to 8 threads.
+2023-11-15 13:35:05,625 - INFO - User Added
+2023-11-15 13:35:05,664 - INFO - Password Added
+2023-11-15 13:35:07,058 - INFO - Next Clicked
+2023-11-15 13:35:09,994 - INFO - Clicked Configure
+2023-11-15 13:35:09,994 - INFO - Clicked Input/Output
+2023-11-15 13:35:09,994 - INFO - Clicked SFTP
+2023-11-15 13:35:09,994 - INFO - Clicked Expand
+2023-11-15 13:35:09,994 - INFO - Clicked Contact Done
+2023-11-15 13:35:15,093 - INFO - Dataframe created
+2023-11-15 13:35:15,160 - INFO - Dataframe written to CSV
+2023-11-15 13:35:15,161 - INFO - ABC_IMPORT.CSV: 11/09/2023 != 11/15/2023 - FAIL
+2023-11-15 13:35:15,161 - INFO - DRAGON.CSV: 11/15/2023 == 11/15/2023 - OK
+2023-11-15 13:35:15,161 - INFO - AGA_DAILY_IMPORT.csv: 11/15/2023 == 11/15/2023 - OK
+2023-11-15 13:35:15,161 - INFO - Flag removed
+2023-11-15 13:35:16,681 - INFO - Email sent successfully!
+2023-11-16 12:35:01,150 - INFO - NumExpr defaulting to 8 threads.
+2023-11-16 12:35:04,255 - INFO - User Added
+2023-11-16 12:35:04,291 - INFO - Password Added
+2023-11-16 12:35:05,746 - INFO - Next Clicked
+2023-11-16 12:35:08,675 - INFO - Clicked Configure
+2023-11-16 12:35:08,676 - INFO - Clicked Input/Output
+2023-11-16 12:35:08,676 - INFO - Clicked SFTP
+2023-11-16 12:35:08,676 - INFO - Clicked Expand
+2023-11-16 12:35:08,676 - INFO - Clicked Contact Done
+2023-11-16 12:35:13,767 - INFO - Dataframe created
+2023-11-16 12:35:13,813 - INFO - Dataframe written to CSV
+2023-11-16 12:35:13,813 - INFO - ABC_IMPORT.CSV: 11/09/2023 != 11/16/2023 - FAIL
+2023-11-16 12:35:13,813 - INFO - DRAGON.CSV: 11/15/2023 != 11/16/2023 - FAIL
+2023-11-16 12:35:13,813 - INFO - AGA_DAILY_IMPORT.csv: 11/15/2023 != 11/16/2023 - FAIL
+2023-11-16 12:35:13,814 - INFO - Flag set for second run
+2023-11-16 13:35:02,991 - INFO - NumExpr defaulting to 8 threads.
+2023-11-16 13:35:06,262 - INFO - User Added
+2023-11-16 13:35:06,298 - INFO - Password Added
+2023-11-16 13:35:11,423 - INFO - Next Clicked
+2023-11-16 13:35:14,347 - INFO - Clicked Configure
+2023-11-16 13:35:14,347 - INFO - Clicked Input/Output
+2023-11-16 13:35:14,347 - INFO - Clicked SFTP
+2023-11-16 13:35:14,347 - INFO - Clicked Expand
+2023-11-16 13:35:14,347 - INFO - Clicked Contact Done
+2023-11-16 13:35:19,443 - INFO - Dataframe created
+2023-11-16 13:35:19,482 - INFO - Dataframe written to CSV
+2023-11-16 13:35:19,482 - INFO - ABC_IMPORT.CSV: 11/09/2023 != 11/16/2023 - FAIL
+2023-11-16 13:35:19,483 - INFO - DRAGON.CSV: 11/16/2023 == 11/16/2023 - OK
+2023-11-16 13:35:19,483 - INFO - AGA_DAILY_IMPORT.csv: 11/16/2023 == 11/16/2023 - OK
+2023-11-16 13:35:19,483 - INFO - Flag removed
+2023-11-16 13:35:21,148 - INFO - Email sent successfully!
+2023-11-17 12:35:02,636 - INFO - NumExpr defaulting to 8 threads.
+2023-11-17 12:35:05,740 - INFO - User Added
+2023-11-17 12:35:05,775 - INFO - Password Added
+2023-11-17 12:35:07,426 - INFO - Next Clicked
+2023-11-17 12:35:09,310 - INFO - Clicked Configure
+2023-11-17 12:35:09,310 - INFO - Clicked Input/Output
+2023-11-17 12:35:09,310 - INFO - Clicked SFTP
+2023-11-17 12:35:09,310 - INFO - Clicked Expand
+2023-11-17 12:35:09,310 - INFO - Clicked Contact Done
+2023-11-17 12:35:14,494 - INFO - Dataframe created
+2023-11-17 12:35:14,573 - INFO - Dataframe written to CSV
+2023-11-17 12:35:14,574 - INFO - ABC_IMPORT.CSV: 11/09/2023 != 11/17/2023 - FAIL
+2023-11-17 12:35:14,574 - INFO - ABC_IMPORT.csv: 11/16/2023 != 11/17/2023 - FAIL
+2023-11-17 12:35:14,574 - INFO - DRAGON.CSV: 11/16/2023 != 11/17/2023 - FAIL
+2023-11-17 12:35:14,574 - INFO - AGA_DAILY_IMPORT.csv: 11/16/2023 != 11/17/2023 - FAIL
+2023-11-17 12:35:14,574 - INFO - Flag set for second run
+2023-11-17 13:35:04,286 - INFO - NumExpr defaulting to 8 threads.
+2023-11-17 13:35:08,418 - INFO - User Added
+2023-11-17 13:35:08,452 - INFO - Password Added
+2023-11-17 13:35:10,879 - INFO - Next Clicked
+2023-11-17 13:35:13,876 - INFO - Clicked Configure
+2023-11-17 13:35:13,876 - INFO - Clicked Input/Output
+2023-11-17 13:35:13,876 - INFO - Clicked SFTP
+2023-11-17 13:35:13,876 - INFO - Clicked Expand
+2023-11-17 13:35:13,876 - INFO - Clicked Contact Done
+2023-11-17 13:35:18,976 - INFO - Dataframe created
+2023-11-17 13:35:19,030 - INFO - Dataframe written to CSV
+2023-11-17 13:35:19,031 - INFO - ABC_IMPORT.CSV: 11/09/2023 != 11/17/2023 - FAIL
+2023-11-17 13:35:19,031 - INFO - ABC_IMPORT.csv: 11/16/2023 != 11/17/2023 - FAIL
+2023-11-17 13:35:19,031 - INFO - DRAGON.CSV: 11/17/2023 == 11/17/2023 - OK
+2023-11-17 13:35:19,031 - INFO - AGA_DAILY_IMPORT.csv: 11/17/2023 == 11/17/2023 - OK
+2023-11-17 13:35:19,032 - INFO - Flag removed
+2023-11-17 13:35:20,903 - INFO - Email sent successfully!

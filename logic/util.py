@@ -4,7 +4,7 @@ from logic.config_ini import *
 config = con()
 
 # webdriver
-URL = 'https://portal.na6.livevox.com/login/auth/BII_1?url=https%3A%2F%2Fportal.na6.livevox.com%2FBII_1%23configure%2FftpBrowser'
+URL = config['DEFAULT']['URL']
 CROMEDRIVER_PATH = '/usr/local/bin/chromedriver'
 
 # login
@@ -30,8 +30,8 @@ EXTRACT_PATH = '/Volumes/Samsung 970 EVO/Documents/Python/livevox_date_checker/d
 OUTPUT_PATH = '/Volumes/Samsung 970 EVO/Documents/Python/livevox_date_checker/output.txt'
 
 # email sending
-SENDER_EMAIL = "jamroack@gmail.com"
-RECEIVER_EMAIL = "cosmin.turculeanu@dandsltd.com"
+SENDER_EMAIL = config['DEFAULT']['SENDER_EMAIL']
+RECEIVER_EMAIL = config['DEFAULT']['RECEIVER_EMAIL']
 GMAIL_APP_PASSWORD = config['DEFAULT']['GMAIL_APP_PASSWORD']
 
 # flaging to ensure it can send the email

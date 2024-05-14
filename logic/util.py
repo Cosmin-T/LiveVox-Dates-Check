@@ -18,7 +18,6 @@ LOGIN_XPATH = '//*[@id="loginBtn"]/span'
 
 # data extraction
 DETAILS = 'div.rt-tbody'
-EXTRACT_PATH = '/Volumes/Samsung 970 EVO/Documents/Python/livevox_date_checker/details.csv'
 OUTPUT_PATH = '/Volumes/Samsung 970 EVO/Documents/Python/livevox_date_checker/output.txt'
 
 # email sending

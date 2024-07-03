@@ -1,67 +1,120 @@
-2024-05-14 15:25:43,338 - INFO - URL Inserted
-2024-05-14 15:25:43,422 - INFO - Username Inserted
-2024-05-14 15:25:43,458 - INFO - Password Inserted
-2024-05-14 15:25:43,636 - INFO - Logged In
-2024-05-14 15:25:48,849 - INFO - Configured Pressed
-2024-05-14 15:25:49,018 - INFO - Input/Output Expanded
-2024-05-14 15:25:49,095 - INFO - SFTP Selected
-2024-05-14 15:25:50,007 - INFO - SFTP Expanded
-2024-05-14 15:25:50,044 - INFO - ContactDone Selected
-2024-05-14 15:25:51,067 - ERROR - Error: 'module' object is not callable
-2024-05-14 15:27:11,710 - INFO - URL Inserted
-2024-05-14 15:27:11,801 - INFO - Username Inserted
-2024-05-14 15:27:11,842 - INFO - Password Inserted
-2024-05-14 15:27:12,020 - INFO - Logged In
-2024-05-14 15:27:17,140 - INFO - Configured Pressed
-2024-05-14 15:27:17,291 - INFO - Input/Output Expanded
-2024-05-14 15:27:17,373 - INFO - SFTP Selected
-2024-05-14 15:27:17,615 - INFO - SFTP Expanded
-2024-05-14 15:27:17,666 - INFO - ContactDone Selected
-2024-05-14 15:27:18,685 - ERROR - Error: 'module' object is not callable
-2024-05-14 15:28:06,861 - INFO - URL Inserted
-2024-05-14 15:28:06,930 - INFO - Username Inserted
-2024-05-14 15:28:06,967 - INFO - Password Inserted
-2024-05-14 15:28:07,149 - INFO - Logged In
-2024-05-14 15:28:12,319 - INFO - Configured Pressed
-2024-05-14 15:28:12,421 - INFO - Input/Output Expanded
-2024-05-14 15:28:12,513 - INFO - SFTP Selected
-2024-05-14 15:28:12,754 - INFO - SFTP Expanded
-2024-05-14 15:28:12,795 - INFO - ContactDone Selected
-2024-05-14 15:28:13,813 - ERROR - Error: 'module' object is not callable
-2024-05-14 15:28:50,995 - INFO - URL Inserted
-2024-05-14 15:28:51,073 - INFO - Username Inserted
-2024-05-14 15:28:51,106 - INFO - Password Inserted
-2024-05-14 15:28:51,283 - INFO - Logged In
-2024-05-14 15:28:56,462 - INFO - Configured Pressed
-2024-05-14 15:28:56,589 - INFO - Input/Output Expanded
-2024-05-14 15:28:56,670 - INFO - SFTP Selected
-2024-05-14 15:28:56,850 - INFO - SFTP Expanded
-2024-05-14 15:28:56,888 - INFO - ContactDone Selected
-2024-05-14 15:28:57,906 - ERROR - Error: '<' not supported between instances of 'datetime.time' and 'datetime.datetime'
-2024-05-14 15:29:26,257 - INFO - URL Inserted
-2024-05-14 15:29:26,394 - INFO - Username Inserted
-2024-05-14 15:29:26,436 - INFO - Password Inserted
-2024-05-14 15:29:26,620 - INFO - Logged In
-2024-05-14 15:29:31,815 - INFO - Configured Pressed
-2024-05-14 15:29:31,937 - INFO - Input/Output Expanded
-2024-05-14 15:29:32,014 - INFO - SFTP Selected
-2024-05-14 15:29:32,243 - INFO - SFTP Expanded
-2024-05-14 15:29:32,281 - INFO - ContactDone Selected
-2024-05-14 15:31:26,406 - INFO - URL Inserted
-2024-05-14 15:31:26,502 - INFO - Username Inserted
-2024-05-14 15:31:26,536 - INFO - Password Inserted
-2024-05-14 15:31:26,709 - INFO - Logged In
-2024-05-14 15:31:31,894 - INFO - Configured Pressed
-2024-05-14 15:31:32,012 - INFO - Input/Output Expanded
-2024-05-14 15:31:32,083 - INFO - SFTP Selected
-2024-05-14 15:31:32,350 - INFO - SFTP Expanded
-2024-05-14 15:31:32,400 - INFO - ContactDone Selected
-2024-05-14 15:32:03,166 - INFO - URL Inserted
-2024-05-14 15:32:03,241 - INFO - Username Inserted
-2024-05-14 15:32:03,274 - INFO - Password Inserted
-2024-05-14 15:32:03,456 - INFO - Logged In
-2024-05-14 15:32:08,652 - INFO - Configured Pressed
-2024-05-14 15:32:08,763 - INFO - Input/Output Expanded
-2024-05-14 15:32:08,849 - INFO - SFTP Selected
-2024-05-14 15:32:09,032 - INFO - SFTP Expanded
-2024-05-14 15:32:09,070 - INFO - ContactDone Selected
+2024-07-03 15:27:18,740 - INFO - URL Inserted
+2024-07-03 15:27:18,863 - INFO - Username Inserted
+2024-07-03 15:27:18,897 - INFO - Password Inserted
+2024-07-03 15:27:19,067 - INFO - Logged In
+2024-07-03 15:27:24,188 - INFO - Configured Pressed
+2024-07-03 15:27:24,284 - INFO - Input/Output Expanded
+2024-07-03 15:27:24,345 - INFO - SFTP Selected
+2024-07-03 15:27:25,168 - INFO - SFTP Expanded
+2024-07-03 15:27:25,199 - INFO - ContactDone Selected
+2024-07-03 15:27:26,220 - INFO - Data Extracted
+
+
+2024-07-03 15:27:43,518 - INFO - URL Inserted
+2024-07-03 15:27:43,600 - INFO - Username Inserted
+2024-07-03 15:27:43,622 - INFO - Password Inserted
+2024-07-03 15:27:43,890 - INFO - Logged In
+2024-07-03 15:27:49,133 - INFO - Configured Pressed
+2024-07-03 15:27:49,254 - INFO - Input/Output Expanded
+2024-07-03 15:27:49,312 - INFO - SFTP Selected
+2024-07-03 15:27:49,539 - INFO - SFTP Expanded
+2024-07-03 15:27:49,570 - INFO - ContactDone Selected
+2024-07-03 15:27:50,590 - INFO - Data Extracted
+
+
+2024-07-03 15:28:14,991 - INFO - URL Inserted
+2024-07-03 15:28:15,087 - INFO - Username Inserted
+2024-07-03 15:28:15,113 - INFO - Password Inserted
+2024-07-03 15:28:15,348 - INFO - Logged In
+2024-07-03 15:28:20,467 - INFO - Configured Pressed
+2024-07-03 15:28:20,542 - INFO - Input/Output Expanded
+2024-07-03 15:28:20,603 - INFO - SFTP Selected
+2024-07-03 15:28:20,820 - INFO - SFTP Expanded
+2024-07-03 15:28:20,850 - INFO - ContactDone Selected
+2024-07-03 15:28:21,861 - INFO - Data Extracted
+
+
+2024-07-03 15:28:31,754 - INFO - URL Inserted
+2024-07-03 15:28:31,821 - INFO - Username Inserted
+2024-07-03 15:28:31,852 - INFO - Password Inserted
+2024-07-03 15:28:32,132 - INFO - Logged In
+2024-07-03 15:28:37,238 - INFO - Configured Pressed
+2024-07-03 15:28:37,314 - INFO - Input/Output Expanded
+2024-07-03 15:28:37,375 - INFO - SFTP Selected
+2024-07-03 15:28:37,590 - INFO - SFTP Expanded
+2024-07-03 15:28:37,626 - INFO - ContactDone Selected
+2024-07-03 15:28:38,645 - INFO - Data Extracted
+
+
+2024-07-03 15:29:35,577 - INFO - URL Inserted
+2024-07-03 15:29:35,665 - INFO - Username Inserted
+2024-07-03 15:29:35,694 - INFO - Password Inserted
+2024-07-03 15:29:35,871 - INFO - Logged In
+2024-07-03 15:29:40,993 - INFO - Configured Pressed
+2024-07-03 15:29:41,093 - INFO - Input/Output Expanded
+2024-07-03 15:29:41,150 - INFO - SFTP Selected
+2024-07-03 15:29:41,381 - INFO - SFTP Expanded
+2024-07-03 15:29:41,412 - INFO - ContactDone Selected
+2024-07-03 15:29:42,431 - INFO - Data Extracted
+
+
+2024-07-03 15:30:13,835 - INFO - URL Inserted
+2024-07-03 15:30:13,917 - INFO - Username Inserted
+2024-07-03 15:30:13,950 - INFO - Password Inserted
+2024-07-03 15:30:14,111 - INFO - Logged In
+2024-07-03 15:30:23,889 - INFO - Configured Pressed
+2024-07-03 15:30:23,968 - INFO - Input/Output Expanded
+2024-07-03 15:30:24,037 - INFO - SFTP Selected
+2024-07-03 15:30:24,362 - INFO - SFTP Expanded
+2024-07-03 15:30:24,399 - INFO - ContactDone Selected
+2024-07-03 15:30:25,418 - INFO - Data Extracted
+
+
+2024-07-03 15:30:30,251 - INFO - URL Inserted
+2024-07-03 15:30:30,345 - INFO - Username Inserted
+2024-07-03 15:30:30,375 - INFO - Password Inserted
+2024-07-03 15:30:30,609 - INFO - Logged In
+2024-07-03 15:30:35,721 - INFO - Configured Pressed
+2024-07-03 15:30:35,806 - INFO - Input/Output Expanded
+2024-07-03 15:30:35,881 - INFO - SFTP Selected
+2024-07-03 15:30:36,091 - INFO - SFTP Expanded
+2024-07-03 15:30:36,120 - INFO - ContactDone Selected
+2024-07-03 15:30:37,136 - INFO - Data Extracted
+
+
+2024-07-03 15:30:57,079 - INFO - URL Inserted
+2024-07-03 15:30:57,183 - INFO - Username Inserted
+2024-07-03 15:30:57,220 - INFO - Password Inserted
+2024-07-03 15:30:57,524 - INFO - Logged In
+2024-07-03 15:31:02,656 - INFO - Configured Pressed
+2024-07-03 15:31:02,755 - INFO - Input/Output Expanded
+2024-07-03 15:31:02,847 - INFO - SFTP Selected
+2024-07-03 15:31:03,172 - INFO - SFTP Expanded
+2024-07-03 15:31:03,203 - INFO - ContactDone Selected
+2024-07-03 15:31:04,224 - INFO - Data Extracted
+
+
+2024-07-03 15:32:04,200 - INFO - URL Inserted
+2024-07-03 15:32:04,308 - INFO - Username Inserted
+2024-07-03 15:32:04,341 - INFO - Password Inserted
+2024-07-03 15:32:04,616 - INFO - Logged In
+2024-07-03 15:32:09,719 - INFO - Configured Pressed
+2024-07-03 15:32:09,818 - INFO - Input/Output Expanded
+2024-07-03 15:32:09,896 - INFO - SFTP Selected
+2024-07-03 15:32:10,104 - INFO - SFTP Expanded
+2024-07-03 15:32:10,133 - INFO - ContactDone Selected
+2024-07-03 15:32:11,151 - INFO - Data Extracted
+
+
+2024-07-03 15:32:41,687 - INFO - URL Inserted
+2024-07-03 15:32:41,787 - INFO - Username Inserted
+2024-07-03 15:32:41,821 - INFO - Password Inserted
+2024-07-03 15:32:41,992 - INFO - Logged In
+2024-07-03 15:32:47,122 - INFO - Configured Pressed
+2024-07-03 15:32:47,203 - INFO - Input/Output Expanded
+2024-07-03 15:32:47,291 - INFO - SFTP Selected
+2024-07-03 15:32:47,503 - INFO - SFTP Expanded
+2024-07-03 15:32:47,534 - INFO - ContactDone Selected
+2024-07-03 15:32:48,554 - INFO - Data Extracted
+
+

@@ -60,10 +60,10 @@ def get_data(page):
                     f.write(f'{file_name}\n')
                     f.write(f'{date} | Failed to load on {today_date} before {after_time}\n')
 
-        logging.info('Data Extracted')
+        logging.info('Data Extracted\n\n')
 
     except Exception as e:
-        logging.error(f'Error: {e}')
+        logging.error(f'Error: {e}\n\n')
 
 def run(playwright: Playwright) -> None:
     """
@@ -121,7 +121,7 @@ def run(playwright: Playwright) -> None:
         time.sleep(1)
 
     except Exception as e:
-        logging.error(f'Error: {e}')
+        logging.error(f'Error: {e}\n\n')
 
     # Extract the data from the page
     get_data(page)

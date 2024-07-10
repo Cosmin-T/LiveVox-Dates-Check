@@ -17,6 +17,8 @@ def get_data(page):
     page (playwright.sync_api.Page): The page to extract the data from
     """
     try:
+        logging.info('Data Extracted\n\n')
+
         # Clear the output file
         with open(OUTPUT_PATH, 'w') as f:
             f.write('')
@@ -52,15 +54,17 @@ def get_data(page):
                 # Write the file name and date to the output file
                 with open(OUTPUT_PATH, 'a') as f:
                     f.write(f'{file_name}\n')
+                    logging.info(f'{file_name}')
                     f.write(f'{date} | Loaded correctly on {today_date} before {after_time}\n\n')
+                    logging.info(f'{date} | Loaded correctly on {today_date} before {after_time}\n\n\n')
 
             else:
                 # Write the file name and date to the output file
                 with open(OUTPUT_PATH, 'a') as f:
                     f.write(f'{file_name}\n')
-                    f.write(f'{date} | Failed to load on {today_date} before {after_time}\n')
-
-        logging.info('Data Extracted\n\n')
+                    logging.info(f'{file_name}')
+                    f.write(f'{date} | Failed to load on {today_date} before {after_time}\n\n')
+                    logging.info(f'{date} | Failed to load on {today_date} before {after_time}\n\n\n')
 
     except Exception as e:
         logging.error(f'Error: {e}\n\n')

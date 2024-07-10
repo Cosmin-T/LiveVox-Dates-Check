@@ -1,9 +1,9 @@
 ABC_IMPORT
-07/03/2024, 03:30:25 | Loaded correctly on 2024-07-03 before 2024-07-03 07:35:00
+07/10/2024, 03:30:27 | Loaded correctly on 2024-07-10 before 2024-07-10 07:35:00
 
 DRAGON
-07/03/2024, 07:30:15 | Loaded correctly on 2024-07-03 before 2024-07-03 07:35:00
+07/10/2024, 07:30:31 | Loaded correctly on 2024-07-10 before 2024-07-10 07:35:00
 
 AGA_DAILY_IMPORT
-07/03/2024, 06:01:22 | Loaded correctly on 2024-07-03 before 2024-07-03 07:35:00
+07/10/2024, 11:00:20 | Failed to load on 2024-07-10 before 2024-07-10 07:35:00
 
